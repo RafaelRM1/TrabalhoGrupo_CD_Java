@@ -19,4 +19,5 @@ Instruções para Execução: Para operar o sistema, inicie a classe Main.java, 
 
 Contribuidores
 Rafael Rodrigues Martins - UC22201129
+
 João Vitor Rocha de Carvalho - UC22201130
